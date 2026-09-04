@@ -1,0 +1,51 @@
+branch_id,branch_name,city,state,manager_name,ifsc_code,status
+B002,Bangalore Main Branch 2,Bangalore,Karnataka,Gaurav Malhotra,IOBA0569865,Active
+B043,Hyderabad Main Branch 43,Hyderabad,Telangana,Manoj Agarwal,CNRB0970300,Active
+B041,Delhi Main Branch 41,Delhi,Delhi,Arun Das,BKID0926394,Inactive
+B027,Ahmedabad Main Branch 27,Ahmedabad,Gujarat,Tarun Pandey,BARB0846454,Active
+B045,Kolkata Main Branch 45,Kolkata,West Bengal,Komal Jain,AXIS0408467,Inactive
+B047,Ahmedabad Main Branch 47,Ahmedabad,Gujarat,Preeti Mishra,HDFC0495521,Active
+B007,Ahmedabad Main Branch 7,Ahmedabad,Gujarat,Pranav Pandey,AXIS0786393,Inactive
+B037,Coimbatore Main Branch 37,Coimbatore,Tamil Nadu,Swati Shah,UBIN0133875,Inactive
+B034,Bhopal Main Branch 34,Bhopal,Madhya Pradesh,Pooja Verma,SBIN0309612,Inactive
+B019,Surat Main Branch 19,Surat,Gujarat,Sakshi Sharma,UBIN0871976,Active
+B016,Patna Main Branch 16,Patna,Bihar,Swati Banerjee,AXIS0851606,Inactive
+B042,Bangalore Main Branch 42,Bangalore,Karnataka,Ritika Verma,SBIN0879794,Inactive
+B029,Lucknow Main Branch 29,Lucknow,Uttar Pradesh,Bhavna Rao,ICIC0844904,Active
+B015,Nagpur Main Branch 15,Nagpur,Maharashtra,Sonali Joshi,AXIS0226611,Inactive
+B020,Duplicate Branch,Mumbai,Maharashtra,Test Manager,HDFC099999,Active
+B012,Chandigarh Main Branch 12,Chandigarh,Punjab,Vishal Kapoor,PNBK0674295,Inactive
+B024,Chennai Main Branch 24,Chennai,Tamil Nadu,Nikhil Agarwal,AXIS0386886,Inactive
+B013,Indore Main Branch 13,Indore,Madhya Pradesh,Tarun Singh,SBIN0272129,Inactive
+B035,Nagpur Main Branch 35,Nagpur,Maharashtra,Vivek Malhotra,ICIC0400538,Inactive
+B048,,Pune,Maharashtra,,INVALID,Active
+B014,Bhopal Main Branch 14,Bhopal,Madhya Pradesh,Amit Kapoor,BKID0212157,Inactive
+B031,Gurugram Main Branch 31,Gurugram,Haryana,Vivek Rao,UBIN0603704,Inactive
+B025,Kolkata Main Branch 25,Kolkata,West Bengal,Nisha Nair,CNRB0943890,Active
+B039,Surat Main Branch 39,Surat,Gujarat,Preeti Tiwari,UBIN0507777,Active
+B028,Jaipur Main Branch 28,Jaipur,Rajasthan,Manoj Joshi,IOBA0849086,Inactive
+B006,Pune Main Branch 6,Pune,Maharashtra,Neha Malhotra,IOBA0749137,Inactive
+B008,Jaipur Main Branch 8,Jaipur,Rajasthan,Nisha Rao,SBIN0956255,Active
+B044,Chennai Main Branch 44,Chennai,Tamil Nadu,Dhruv Yadav,BARB0891787,Active
+B046,Pune Main Branch 46,Pune,Maharashtra,Deepa Chauhan,HDFC0296059,Active
+B033,Indore Main Branch 33,Indore,Madhya Pradesh,Rahul Mishra,HDFC0126499,Inactive
+B026,Pune Main Branch 26,Pune,Maharashtra,Amit Chatterjee,IOBA0834018,Inactive
+B005,Kolkata Main Branch 5,Kolkata,West Bengal,Nikhil Verma,UBIN0675771,Active
+B023,Hyderabad Main Branch 23,Hyderabad,Telangana,Kunal Agarwal,IOBA0437477,Inactive
+B032,Chandigarh Main Branch 32,Chandigarh,Punjab,Bhavna Jain,UBIN0399817,Inactive
+B020,Mumbai Main Branch 20,Mumbai,Maharashtra,Ritika Menon,BKID0979562,Inactive
+B004,Chennai Main Branch 4,Chennai,Tamil Nadu,Preeti Tiwari,SBIN0207629,Inactive
+B021,Delhi Main Branch 21,Delhi,Delhi,Pranav Shah,ICIC0825423,Active
+B040,Mumbai Main Branch 40,Mumbai,Maharashtra,Pranav Malhotra,PNBK0826596,Active
+B003,Hyderabad Main Branch 3,Hyderabad,Telangana,Sakshi Banerjee,BARB0224473,Inactive
+B010,Noida Main Branch 10,Noida,Uttar Pradesh,Shruti Chauhan,BARB0850689,Inactive
+B030,Noida Main Branch 30,Noida,Uttar Pradesh,Pranav Pandey,BARB0844858,Active
+B022,Bangalore Main Branch 22,Bangalore,Karnataka,Ashish Kapoor,ICIC0208584,Inactive
+B001,Delhi Main Branch 1,Delhi,Delhi,Shweta Kapoor,AXIS0182659,Inactive
+,Delhi Central Branch,Delhi,Delhi,Rahul Sharma,SBIN012345,Active
+B038,Kochi Main Branch 38,Kochi,Kerala,Gaurav Singh,IOBA0808340,Active
+B011,Gurugram Main Branch 11,Gurugram,Haryana,Kavita Singh,AXIS0102303,Inactive
+B009,Lucknow Main Branch 9,Lucknow,Uttar Pradesh,Anjali Iyer,UBIN0904694,Inactive
+B017,Coimbatore Main Branch 17,Coimbatore,Tamil Nadu,Rohan Shah,BKID0148759,Active
+B036,Patna Main Branch 36,Patna,Bihar,Pooja Kapoor,SBIN0824141,Inactive
+B018,Kochi Main Branch 18,Kochi,Kerala,Komal Nayak,CNRB0579605,Active
